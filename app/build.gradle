@@ -38,4 +38,7 @@ dependencies {
 
     // razorpay sdk
     implementation 'com.razorpay:checkout:1.6.12'
+
+    //Payu Money SDK
+    implementation 'in.payu:payu-checkout-pro:1.8.2'
 }

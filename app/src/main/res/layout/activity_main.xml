@@ -15,6 +15,21 @@
         android:inputType="number"
         android:textAppearance="@style/TextAppearance.AppCompat.Medium" />
 
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:layout_marginStart="@dimen/payu_dimen_20dp"
+        android:text="Press\n1. Razor Pay \n2. PayU Money" />
+
+    <EditText
+        android:id="@+id/paymentType"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20dp"
+        android:layout_marginEnd="@dimen/payu_dimen_20dp"
+        android:inputType="number" />
+
     <Button
         android:id="@+id/startpayment"
         android:layout_width="match_parent"

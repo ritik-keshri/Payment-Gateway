@@ -1,3 +1,3 @@
 # Razor-Pay-Payment-Gateway
 
-It is used for payment gateway using razor pay.
+App display the different payment gateway for paying which includes Razor Pay and PayU.
